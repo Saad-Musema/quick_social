@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362966429259",
+    "project_id": "quick-social-90e2e",
+    "storage_bucket": "quick-social-90e2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362966429259:android:26cce1d945ae106ce327ce",
+        "android_client_info": {
+          "package_name": "com.example.quick_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWta1Ev3jQr-1QPskyNWw1sMxhNCqgOx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
